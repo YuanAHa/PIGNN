@@ -26,7 +26,7 @@ When train finished, to evaluate the trained model and visualize solution result
 ```
 python test.py
 ```
-and,the results images will be saved in the `images` folder.
+and,the results images will be saved in the `testImg_save_dir` folder.
 
 
 
